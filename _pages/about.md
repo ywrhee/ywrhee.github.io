@@ -12,7 +12,7 @@ Young Won Rhee is a Ph.D. candidate in Management at the Michael G. Foster Schoo
 
 Young Won's research has been published in several peer-reviewed journals such as the Journal of Organizational Behavior and the European Journal of Work and Organizational Psychology. A chapter of his dissertation work on a novel construct of team moral identity has been accepted as the Best Paper Proceedings of the Academy of Management Annual Meeting. His other research is undergoing review at the Organizational Behavior and Human Decision Processes. 
 
-Some other information
-======
-Something interesting.
+When not focused on his research, Young can be found in the outdoors with his wife - hiking, exploring the city and taking photos of it, and spending time in local gardens and parks.
+
+
 
