@@ -9,4 +9,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Click here to see the most recent version of my CV](http://academicpages.github.io/files/CV_YWRhee(2022)_V2.pdf)
+[Click here to see the most recent version of my CV](http://ywrhee.github.io/files/CV_YWRhee(2022)_V2.pdf)
