@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ph.D. Candidate at the Foster School of Business, University of Washington"
+title                    : "Young Won Rhee"
 title_separator          : "-"
-name                     : &name "Young Won Rhee"
+name                     : &name "Ph.D. Candidate at the Foster School of Business, University of Washington"
 description              : &description "Ph.D. Candidate at the Foster School of Business, University of Washington"
 url                      : https://ywrhee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
