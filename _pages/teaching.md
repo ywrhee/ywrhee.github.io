@@ -7,7 +7,6 @@ author_profile: true
 
 ### MGMT 300: Leadership and Organizational Behavior
 •	Winter 2021 (4.3/5.0)
-
 •	Spring 2020 (4.2/5.0)
 
 ### FGBUS 250: Foundation of Global Business
@@ -20,7 +19,7 @@ author_profile: true
 •	MGMT 545: Leading & Managing High-Performance Organizations 
 
 ### Service
-__University of Washington TA Program
+_University of Washington TA Program_
 •	Workshop Planning and Facilitation – What if? Preparing for Challenging Moments
 •	Workshop Panelist – Panel Discussion with Experienced International TAs
 
