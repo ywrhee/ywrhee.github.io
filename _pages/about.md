@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - url: https://github.com/ywrhee/ywrhee.github.io/blob/master/images/1.jpg
-    image_path: https://github.com/ywrhee/ywrhee.github.io/blob/master/images/1-1.jpg
+  - url: https://github.com/ywrhee/ywrhee.github.io/blob/da8c21c7d6e0553311043efb1907fd1735146936/images/1.jpg
+    image_path: https://github.com/ywrhee/ywrhee.github.io/blob/197aa1f4ff39f4be88f3cb0b92b644e9092419fb/images/1-1.jpg
     alt: "Quad, University of Washington"
     title: "Quad, University of Washington"
   - url: /images/1.jpg
