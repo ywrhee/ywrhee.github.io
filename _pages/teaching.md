@@ -5,15 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### FGBUS 250: Foundation of Global Business
-
-•	Autumn 2020 (4.5/5.0)
-
 ### MGMT 300: Leadership and Organizational Behavior
 
 •	Winter 2021 (4.3/5.0)
 
 •	Spring 2020 (4.2/5.0)
+
+### FGBUS 250: Foundation of Global Business
+
+•	Autumn 2020 (4.5/5.0)
 
 ### Teaching Assistant (MBA Courses)
 
