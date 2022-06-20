@@ -9,9 +9,9 @@ author_profile: true
 
 This is an undergraduate course in organizational behavior. I was responsible for developing course material, lecturing, supporting student consulting and research projects, and grading.
 
-•	Winter 2021 (4.3/5.0)
+**•	Winter 2021 (4.3/5.0)**
 
-•	Spring 2020 (4.2/5.0)
+**•	Spring 2020 (4.2/5.0)**
 
 Here are some notable evaluation excerpts from students:
 
@@ -25,27 +25,27 @@ _“Rhee did an excellent job in encouraging the educational advancement of stud
 
 This is a core class from UW’s Global Business Certificate program. I have worked with international professionals to help them understand better how to work effectively both in teams and individually in a global business context.
 
-•	Autumn 2020 (4.5/5.0)
+**•	Autumn 2020 (4.5/5.0)**
 
 ### Teaching Assistant (MBA Courses)
 
 I have led review sessions and coaching sessions for business professionals enrolled in MBA courses, and also helped them successfully navigate class projects.
 
-•	MGMT 500: Management and Leadership
+**•	MGMT 500: Management and Leadership**
 
-•	MGMT 501: Leading Teams and Organizations (4.1/5.0)
+**•	MGMT 501: Leading Teams and Organizations (4.1/5.0)**
 
-•	MGMT 504: Ethical Leadership
+**•	MGMT 504: Ethical Leadership**
 
-•	MGMT 545: Leading & Managing High-Performance Organizations 
+**•	MGMT 545: Leading & Managing High-Performance Organizations **
 
 ### Service
 _University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs._
 
-•	Workshop Planning and Facilitation – What if? Preparing for Challenging Moments
+**•	Workshop Planning and Facilitation – What if? Preparing for Challenging Moments**
 
-•	Workshop Panelist – Panel Discussion with Experienced International TAs
+**•	Workshop Panelist – Panel Discussion with Experienced International TAs**
 
 ### Distinction
 
-•	Ph.D. Program Teaching Award 
+**•	Ph.D. Program Teaching Award **
