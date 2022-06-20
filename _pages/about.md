@@ -14,6 +14,24 @@ Young Won's research has been published in several peer-reviewed journals such a
 
 When not focused on his research, Young can be found in the outdoors with his wife - hiking, exploring the city and taking photos of it, and spending time in local gardens and parks.
 
+---
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"    
+---
 
-
-![4](https://user-images.githubusercontent.com/107729878/174504666-de2d309c-2f08-4b2d-aebb-f586b9448b7e.jpg)
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
