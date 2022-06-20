@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 gallery:
   - url: /images/1.jpg
-    image_path: /images/1.jpg
+    image_path: /images/1-1.jpg
     alt: "Quad, University of Washington"
     title: "Quad, University of Washington"
   - url: /images/1.jpg
