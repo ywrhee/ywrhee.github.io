@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - url: https://github.com/ywrhee/ywrhee.github.io/blob/da8c21c7d6e0553311043efb1907fd1735146936/images/1.jpg
-    image_path: https://github.com/ywrhee/ywrhee.github.io/blob/197aa1f4ff39f4be88f3cb0b92b644e9092419fb/images/1-1.jpg
+  - url: "/images/1.jpg"
+    image_path: "/images/1-1.jpg"
     alt: "Quad, University of Washington"
     title: "Quad, University of Washington"
   - url: ![2](https://user-images.githubusercontent.com/107729878/174556633-9897f1ac-9e97-4242-b113-6272f99d8078.jpg)
@@ -51,5 +51,6 @@ Young Won's research has been published in several peer-reviewed journals such a
 
 When not focused on his research, Young can be found in the outdoors with his wife - hiking, exploring the city and taking photos of it, and spending time in local gardens and parks.
 
+{% include figure image_path="/images/1.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 {% include gallery caption="**Memories**." %}
