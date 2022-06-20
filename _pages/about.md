@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: /images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+  - url: /images/1.jpg
+    image_path: /images/1.jpg
+    alt: "Quad, University of Washington"
+    title: "Quad, University of Washington"
   - url: /images/unsplash-gallery-image-2.jpg
     image_path: /images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
