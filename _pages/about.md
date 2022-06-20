@@ -15,8 +15,8 @@ gallery:
     image_path: ![2-2](https://user-images.githubusercontent.com/107729878/174556668-8c921149-1136-4467-8962-57494d920606.jpg)
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /images/1.jpg
-    image_path: /images/1.jpg
+  - url: "/images/1-1.jpg"
+    image_path: "/images/1.jpg"
     alt: "placeholder image 3"
     title: "Image 3 title caption"
   - url: /images/unsplash-gallery-image-4.jpg
