@@ -7,6 +7,7 @@ author_profile: true
 
 ### MGMT 300: Leadership and Organizational Behavior
 •	Winter 2021 (4.3/5.0)
+
 •	Spring 2020 (4.2/5.0)
 
 ### FGBUS 250: Foundation of Global Business
