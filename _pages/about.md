@@ -11,8 +11,8 @@ gallery:
     image_path: https://github.com/ywrhee/ywrhee.github.io/blob/197aa1f4ff39f4be88f3cb0b92b644e9092419fb/images/1-1.jpg
     alt: "Quad, University of Washington"
     title: "Quad, University of Washington"
-  - url: /images/1.jpg
-    image_path: /images/1.jpg
+  - url: ![2](https://user-images.githubusercontent.com/107729878/174556633-9897f1ac-9e97-4242-b113-6272f99d8078.jpg)
+    image_path: ![2-2](https://user-images.githubusercontent.com/107729878/174556668-8c921149-1136-4467-8962-57494d920606.jpg)
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /images/1.jpg
