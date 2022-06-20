@@ -55,4 +55,9 @@ When not focused on his research, Young can be found in the outdoors with his wi
 
 {% include figure image_path="/images/1.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
+<figure>
+  <img src="/images/1.jpg" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
 
+{% include figure image_path="/images/1.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
