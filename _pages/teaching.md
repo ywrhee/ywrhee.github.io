@@ -37,7 +37,7 @@ I have led review sessions and coaching sessions for business professionals enro
 
 **•	MGMT 504: Ethical Leadership**
 
-**•	MGMT 545: Leading & Managing High-Performance Organizations **
+**•	MGMT 545: Leading & Managing High-Performance Organizations**
 
 ### Service
 _University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs._
@@ -48,4 +48,4 @@ _University of Washington TA Program: In this program, I have discussed what are
 
 ### Distinction
 
-**•	Ph.D. Program Teaching Award **
+**•	Ph.D. Program Teaching Award**
