@@ -11,12 +11,12 @@ gallery:
     image_path: /images/1.jpg
     alt: "Quad, University of Washington"
     title: "Quad, University of Washington"
-  - url: [/images/unsplash-gallery-image-2.jpg](https://github.com/ywrhee/ywrhee.github.io/blob/master/images/1.jpg)
-    image_path: [/images/unsplash-gallery-image-2-th.jpg](https://github.com/ywrhee/ywrhee.github.io/blob/master/images/1.jpg)
+  - url: /images/1.jpg
+    image_path: /images/1.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: https://github.com/ywrhee/ywrhee.github.io/blob/master/images/1.jpg
-    image_path: https://github.com/ywrhee/ywrhee.github.io/blob/master/images/1.jpg
+  - url: /images/1.jpg
+    image_path: /images/1.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
   - url: /images/unsplash-gallery-image-4.jpg
