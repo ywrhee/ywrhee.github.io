@@ -24,4 +24,4 @@ _University of Washington TA Program_
 •	Workshop Panelist – Panel Discussion with Experienced International TAs
 
 ### Distinction
-•	Ph.D. Program Teaching Award
+•	Ph.D. Program Teaching Award 
