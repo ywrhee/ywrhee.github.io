@@ -39,4 +39,4 @@ Young Won's research has been published in several peer-reviewed journals such a
 
 When not focused on his research, Young can be found in the outdoors with his wife - hiking, exploring the city and taking photos of it, and spending time in local gardens and parks.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="**Memories**." %}
