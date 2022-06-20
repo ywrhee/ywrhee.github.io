@@ -25,12 +25,12 @@ gallery:
     title: "Image 4 title caption"    
   - url: /images/unsplash-gallery-image-5.jpg
     image_path: /images/unsplash-gallery-image-5-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption" 
+    alt: "placeholder image 5"
+    title: "Image 5 title caption" 
   - url: /images/unsplash-gallery-image-6.jpg
     image_path: /images/unsplash-gallery-image-6-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption" 
+    alt: "placeholder image 6"
+    title: "Image 6 title caption" 
 ---
 
 Young Won Rhee is a Ph.D. candidate in Management at the Michael G. Foster School of Business, University of Washington. His research program focuses on the intersection between behavioral ethics and teams, exploring what makes an ethical team and what are some organizational consequences of being so. He also studies the cross-level dynamics between teams and individuals revolving around topics of behavioral ethics. For example, he studies how moral beliefs and moral behaviors of team members impact team processes and outcomes through a unique upward influence process, as well as how a team's ethical context and characteristics impact members’ work behaviors and outcomes.  
