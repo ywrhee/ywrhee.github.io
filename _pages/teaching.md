@@ -41,11 +41,11 @@ I have led review sessions and coaching sessions for business professionals enro
 
 ### Service
 
-_University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs._
-
 **•	Workshop Planning and Facilitation – What if? Preparing for Challenging Moments**
 
 **•	Workshop Panelist – Panel Discussion with Experienced International TAs**
+
+_University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs._
 
 ### Distinction
 
