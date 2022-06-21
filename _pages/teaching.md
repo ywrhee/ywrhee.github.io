@@ -40,6 +40,7 @@ I have led review sessions and coaching sessions for business professionals enro
 **•	MGMT 545: Leading & Managing High-Performance Organizations**
 
 ### Service
+
 _University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs._
 
 **•	Workshop Planning and Facilitation – What if? Preparing for Challenging Moments**
@@ -49,3 +50,5 @@ _University of Washington TA Program: In this program, I have discussed what are
 ### Distinction
 
 **•	Ph.D. Program Teaching Award**
+
+As a recognition of my efforts and performances in teaching, I received a Ph.D. program teaching award from the Foster School of Business in 2022, which has been awarded to three Ph.D. students who demonstrated outstanding performance in teaching. 
