@@ -26,3 +26,22 @@ This study theorizes and examines how employees’ helping behavior is predicted
 Creativity is an increasingly important domain of performance largely based on knowledge held and exchanged among employees. Despite the necessity of knowledge exchange, individual employees tend to experience mixed motivation caused by the inherent social dilemma of knowledge sharing. To pragmatically explain how individuals deal with this motivational dilemma, we propose an expanded framework of knowledge management behavior (KMB) that includes knowledge sharing, hiding, and manipulation. Individual choices among these KMBs may be driven by dispositional goal orientations. We also propose that the effects of KMB on creativity of employees vary depending on their social status in a work group. Our analyses based on 214 employees from 37 teams reveal that (i) learning goal orientation increases knowledge sharing and decreases knowledge manipulation; (ii) avoiding goal orientation increases knowledge sharing and manipulation; and (iii) proving goal orientation increases knowledge hiding and manipulation. Knowledge hiding is negatively related to employee creativity, particularly for employees with high social status. Knowledge manipulation is positively related to creativity, particularly for those with high social status. This study develops and validates a theoretical framework explaining the formative process and distinct outcomes of the multifaceted and strategic approaches to KMB at the individual level.
 
 _**•	Awarded for being the eighth most cited article in 2019 JOB impact factor**_
+
+
+
+<script src="jquery-1.4.2.js" type="text/javascript"></script>
+<button id="butt1">Click to hide Paragraph</button>
+<button id="butt2">Click to show Paragraph</button>
+  <p>This will Hide after clicking button</p>
+  <p>It will hide too....................</p>
+<script>
+    $("#butt2").hide();
+    $("#butt1").click(function () {
+      $("p").hide("slow");
+	  $("#butt1").hide("slow");
+	 $("#butt2").show("slow");
+    }); 
+   $("#butt2").click(function () {
+    $("p").show("slow");
+    });
+</script>
