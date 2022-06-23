@@ -9,7 +9,19 @@ author_profile: true
 
 ### “We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team (Dissertation)
 
-This dissertation introduces the construct of team moral identity, which I define as a team’s shared sense of self that regards morality as a central, distinctive, and enduring characteristic of the team. In keeping with the literature on ethical theory, I delineate this construct as having two forms, conduct-oriented and outcome-oriented identity. Furthermore, I draw on the social identity and self-verification literatures to propose several critical antecedents and consequences of team moral identity. I validate a scale measuring team moral identity, examine the nomological network around the construct, and test several of the relationships proposed in the theoretical model using online, lab, and field data. The findings from this dissertation demonstrate that a) team moral identity dramatically impacts the functions and outcomes of a team, including those with moral and non-moral implications, and that b) conduct- and outcome-oriented team moral identity have distinct organizational implications. 
+<details><summary>ABSTRACT</summary>
+<p>
+
+
+```python
+print("This dissertation introduces the construct of team moral identity, which I define as a team’s shared sense of self that regards morality as a central, distinctive, and enduring characteristic of the team. In keeping with the literature on ethical theory, I delineate this construct as having two forms, conduct-oriented and outcome-oriented identity. Furthermore, I draw on the social identity and self-verification literatures to propose several critical antecedents and consequences of team moral identity. I validate a scale measuring team moral identity, examine the nomological network around the construct, and test several of the relationships proposed in the theoretical model using online, lab, and field data. The findings from this dissertation demonstrate that a) team moral identity dramatically impacts the functions and outcomes of a team, including those with moral and non-moral implications, and that b) conduct- and outcome-oriented team moral identity have distinct organizational implications. ")
+```
+
+</p>
+</details>
+
+
+
 
 **_•	Academy of Management 2022 Best Paper Proceedings (SIM Division)_**
 
@@ -29,19 +41,6 @@ _**•	Awarded for being the eighth most cited article in 2019 JOB impact factor
 
 
 
-<script src="jquery-1.4.2.js" type="text/javascript"></script>
-<button id="butt1">Click to hide Paragraph</button>
-<button id="butt2">Click to show Paragraph</button>
-  <p>This will Hide after clicking button</p>
-  <p>It will hide too....................</p>
-<script>
-    $("#butt2").hide();
-    $("#butt1").click(function () {
-      $("p").hide("slow");
-	  $("#butt1").hide("slow");
-	 $("#butt2").show("slow");
-    }); 
-   $("#butt2").click(function () {
-    $("p").show("slow");
-    });
-</script>
+
+
+
