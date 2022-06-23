@@ -11,6 +11,10 @@ author_profile: true
 
 [Text](#link){: .btn .btn--primary}
 
+[Button name](#link){: .btn .btn--success}
+
+<a href="#link" class="btn btn--success">Button name</a>
+
 <details><summary>[Text](#link){: .btn .btn--primary}</summary>
 <p>
 
