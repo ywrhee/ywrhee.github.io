@@ -12,5 +12,8 @@ main:
   - title: "Gallary"
     url: /gallary/
 
+  - title: "Gallary2"
+    url: /_pages/gallary.md
+
   - title: "CV"
     url: /_pages/CV_YWRhee(2022)_V2.pdf
