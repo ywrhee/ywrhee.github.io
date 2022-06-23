@@ -4,7 +4,7 @@ title: "gallary"
 author_profile: true 
 ---
 
-When not focused on his research, Young can be found in the outdoors with his wife - hiking, taking photos, and exploring the city, local gardens and parks.
+When not focused on his research, I spend time in the outdoors with my wife - hiking, taking photos, and exploring the city, local gardens and parks. 
 
 <figure class="third">
   <a href="/files/a1.jpg">
