@@ -12,6 +12,6 @@ main:
   - title: "Gallary"
     url: /gallary/
 
-  - title: "CV"
+  - title: "CV<sub>PDF</sub>"
     url: /_pages/CV_YWRhee(2022)_V2.pdf
     target: "_blank"
