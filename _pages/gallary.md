@@ -1,5 +1,6 @@
 
 ---
+layout: archive
 title: "Gallary"
 permalink: /gallary/
 author_profile: true
