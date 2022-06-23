@@ -1,10 +1,11 @@
 
 ---
-permalink: /gallary/
 title: "Gallary"
+permalink: /gallary/
 author_profile: true
- 
 ---
+
+{% include base_path %}
 
 When not focused on his research, Young can be found in the outdoors with his wife - hiking, taking photos, and exploring the city, local gardens and parks.
 
