@@ -1,6 +1,7 @@
 ---
+title: 
+layout: single
 permalink: /teach/
-Title: " "
 author_profile: true
 ---
 
