@@ -48,6 +48,13 @@ author_profile: true
     <blockquote>This study theorizes and examines how observing unethical behaviors with different underlying intents, namely, pro-group, self-serving, and harming, committed by a group member influences an observer’s group directed behaviors. Drawing on the social identity theory, we identify the motivations to leave a group and avoid group members as critical group-oriented behaviors after observing a member’s unethical behavior. Furthermore, we posit the trust and threat as critical mechanisms that explain the observer’s reactions to different types of unethical intentions demonstrated by the perpetrator. We hypothesize that the unethical behavior with the harming intent will have the strongest effect, followed by the unethical behaviors committed with the self-serving and prosocial intentions. These hypotheses were empirically tested by online experimental studies using the scenario and critical incident methods; . This paper highlights the importance of identifying distinct motives (i.e., pro-group, self-serving, or harming) of unethical behaviors that occur in a group setting, which can involve distinct social identity processes that possess unique group-directed implications.</blockquote>
   </details>
 
++ ### Varying Effects of Unethical Pro-group Behavior on Team and Individual Performances: Abusive Supervision as a Critical Contingency
+*Working Paper*. 
+    <details>
+    <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>The current study hypothesizes and tests how unethical pro-group behavior (UPB) of individual employees predict individual and team performance in a heterologous way. Drawing on the behavioral ethics literature and cognitive energetics theory, this study further identifies abusive supervision as a critical boundary condition that accentuates the heterogeneous relationship between UPB and performances at the individual- and team-levels. The current conceptual framework was empirically tested by 56 teams consisted of 186 Korean employees. Analytic results from multi-level and regression analysis reveal that UPB by individual employee is a significant and negative predictor of individual task performance, which tends to be strong in teams with a highly abusive leader. Collective UPB at teams shows a significantly positive effect on team performance, and this effect was driven primarily by teams with a highly abusive leader. The current theoretical and empirical analysis highlights the multi-level nature of UPB and its performance implications.</blockquote>
+  </details>
+
 ## Publications
 ---
 
