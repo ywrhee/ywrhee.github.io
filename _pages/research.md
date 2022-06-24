@@ -11,9 +11,7 @@ author_profile: true
 
 + ### Team Moral Identity: A Theory of Its Antecedents, Contingencies, and Implications  
 *Dissertation Chapter I*
-
-**_Academy of Management 2022 Best Paper Proceedings (SIM Division)_**
-
+**Academy of Management 2022 Best Paper Proceedings (SIM Division)**
 <details>
 <summary><font color="gray">Abstract +</font></summary>
     <blockquote>In this paper, we introduce the concept of team moral identity, a team-level construct that represents the shared cognition that morality is a central, distinctive, and enduring attribute that defines the team. We draw from the theory of moral self, social identity theory, and self- verification literature to develop a model of the antecedents and outcomes of team moral identity. This model has theoretical implications for scholarship focusing on moral identity, collective identity, and behavioral ethics, and it holds numerous practical implications for those working in teams.</blockquote>
@@ -21,7 +19,6 @@ author_profile: true
 
 + ### We Are a Moral Team: The Conceptualization, Measurement, and an Examination of Consequences of Team Moral Identity
 *Dissertation Chapter II*
-
 <details>
 <summary><font color="gray">Abstract +</font></summary>
     <blockquote>Moral identity has been one of the most frequently studied constructs in the field of behavioral ethics, yet previous studies have mostly examined moral identity as an individual phenomenon. Integrating the research findings from the collective identity and social identity literature, we examine moral identity at the team-level. In four studies, we develop a valid measure of team moral identity and explore its effects on various workplace outcomes. We find that team moral identity can take a different form depending on a unique set of moral values, i.e., conduct- or outcome-oriented moral characteristics, that a team regards as part of their definitional characteristics. We find that both conduct- and outcome-oriented team moral identities influence important moral and non-moral team outcomes, though their relational strengths can be vastly different as each team moral identity involves unique motivational influences on teams. Overall, this paper offers a theoretical and empirical basis for future research on team moral identity.  </blockquote>
