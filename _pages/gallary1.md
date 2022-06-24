@@ -1,7 +1,10 @@
 ---
 permalink: /gallary/
 #title: "Gallary"
-author_profile: true 
+author_profile: false
+sidebar:
+  title: "Gallery"
+  nav: sidebar-gallery
 ---
 
 When not focused on my research, I spend time in the outdoors with my wife - hiking, taking photos, and exploring the city, local gardens and parks. 
