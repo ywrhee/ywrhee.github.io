@@ -1,6 +1,6 @@
 ---
 permalink: /gallary/
-#title: "Gallary"
+#title: "Gallery"
 author_profile: false
 sidebar:
   title: "Gallery"
