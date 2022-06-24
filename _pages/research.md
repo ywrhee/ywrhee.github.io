@@ -10,7 +10,9 @@ author_profile: true
 ### “We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team (Dissertation)
 **_•	Academy of Management 2022 Best Paper Proceedings (SIM Division)_**
 
-<details><summary>
+<details>
+
+<summary>
 CLICK HERE TO VIEW THE ABSTRACT
 </summary>
   
@@ -25,7 +27,9 @@ CLICK HERE TO VIEW THE ABSTRACT
 
 ### Moral Feedback: A Theory of Its Mechanisms, Contingencies, and Implications (With Scott Reynolds and Carolyn Dang, Work in progress)
 
-<details><summary>
+<details>
+  
+<summary>
 CLICK HERE TO VIEW THE ABSTRACT</summary>
   
 
