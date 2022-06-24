@@ -33,6 +33,15 @@ When not focused on my research, I spend time in the outdoors with my wife - hik
   
   <a href="/files/s1.jpg">
   <img src="/files/s1-1.jpg"></a> 
+  
+  <a href="/files/s4.jpg">
+  <img src="/files/s4-1.jpg"></a>
+
+  <a href="/files/s5.jpg">
+  <img src="/files/s5-1.jpg"></a>
+  
+  <a href="/files/s6.jpg">
+  <img src="/files/s6-1.jpg"></a> 
 </figure>
 
 ### Mt. Rainier
