@@ -1,5 +1,6 @@
 ---
 permalink: /teach/
+title: "Teaching Experience"
 author_profile: true
 ---
 
