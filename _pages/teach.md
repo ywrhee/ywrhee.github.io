@@ -5,8 +5,9 @@ permalink: /teach/
 author_profile: true
 ---
 
-## MGMT 300: Leadership and Organizational Behavior
----
+
+MGMT 300: Leadership and Organizational Behavior
+
 
 This is an undergraduate course in organizational behavior. I was responsible for developing course material, lecturing, supporting student consulting and research projects, and grading. WHY
 
