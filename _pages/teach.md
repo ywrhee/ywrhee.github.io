@@ -47,7 +47,7 @@ I have led review sessions and coaching sessions for business professionals enro
 
 ## Service
 
-_University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs._
+University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs.
 
 + **Workshop Planning and Facilitation – What if? Preparing for Challenging Moments**
 
@@ -60,7 +60,7 @@ _University of Washington TA Program: In this program, I have discussed what are
 
 ## Distinction
 
-_As a recognition of my efforts and performances in teaching, I received a Ph.D. program teaching award from the Foster School of Business in 2022, which has been awarded to three Ph.D. students who demonstrated outstanding performance in teaching._
+As a recognition of my efforts and performances in teaching, I received a Ph.D. program teaching award from the Foster School of Business in 2022, which has been awarded to three Ph.D. students who demonstrated outstanding performance in teaching.
 
 + **Dean's Teaching Award**
 
