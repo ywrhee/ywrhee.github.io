@@ -9,7 +9,7 @@ author_profile: true
 ## Dissertation
 ---
 
-### “We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team 
++ **“We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team**.  
 *Dissertation Chapter I*
 
 **_•	Academy of Management 2022 Best Paper Proceedings (SIM Division)_**
@@ -19,7 +19,7 @@ author_profile: true
     <blockquote>This dissertation introduces the construct of team moral identity, which I define as a team’s shared sense of self that regards morality as a central, distinctive, and enduring characteristic of the team. In keeping with the literature on ethical theory, I delineate this construct as having two forms, conduct-oriented and outcome-oriented identity. Furthermore, I draw on the social identity and self-verification literatures to propose several critical antecedents and consequences of team moral identity. I validate a scale measuring team moral identity, examine the nomological network around the construct, and test several of the relationships proposed in the theoretical model using online, lab, and field data. The findings from this dissertation demonstrate that a) team moral identity dramatically impacts the functions and outcomes of a team, including those with moral and non-moral implications, and that b) conduct- and outcome-oriented team moral identity have distinct organizational implications.</blockquote>
   </details>
 
-### “We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team 
++ **“We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team**. 
 *Dissertation Chapter II*
 
 <details>
@@ -56,7 +56,7 @@ This study theorizes and examines how employees’ helping behavior is predicted
 ## Publications
 ---
 
-### Knowledge management behavior and individual creativity: Goal orientations as antecedents and in-group social status as moderating contingency 
++ **Knowledge management behavior and individual creativity: Goal orientations as antecedents and in-group social status as moderating contingency**. 
 *Journal of Organizational Behavior*, 38(6): 813-832. 2017. Rhee, Y. W. & Choi, J. N.
 <span style="float:right"><a target = "_blank" href="https://doi.org/10.1002/job.2168" class="btn btn--warning btn--small">Journal</a>
 
