@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Dissertation
+---
 
 ### “We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team (Dissertation)
 **_•	Academy of Management 2022 Best Paper Proceedings (SIM Division)_**
@@ -29,6 +30,7 @@ CLICK HERE TO VIEW THE ABSTRACT
 </details>
 
 ## Works in Progress
+---
 
 ### Moral Feedback: A Theory of Its Mechanisms, Contingencies, and Implications (With Scott Reynolds and Carolyn Dang, Work in progress)
 
@@ -54,9 +56,10 @@ CLICK HERE TO VIEW THE ABSTRACT
 This study theorizes and examines how employees’ helping behavior is predicted by coworkers’ social status, which reflects the operation of an impression management motive. Drawing on social exchange theory and resource allocation framework, we further identify intragroup task conflict as a critical boundary condition that accentuates the role of coworker social status and further politicizes the helping behavior of employees. In view of the literature on the dark side of citizenship behavior, members’ status-driven helping behavior is expected to compromise team performance by reducing trust and coordination among team members. The current conceptual framework was empirically tested by field survey and online experimental studies. This study highlights the importance of distinct motives (prosocial, task-related, and self-serving) underlying citizenship behavior, which may lead to disparate individual and organizational outcomes.
 
 ## Publications
+---
 
 ### Knowledge management behavior and individual creativity: Goal orientations as antecedents and in-group social status as moderating contingency 
-*Journal of Organizational Behavior*, 29(3): 663-685. 2017. Rhee, Y. W. & Choi, J. N.
+*Journal of Organizational Behavior*, 38(6): 813-832. 2017. Rhee, Y. W. & Choi, J. N.
 <span style="float:right"><a target = "_blank" href="https://doi.org/10.1002/job.2168" class="btn btn--warning btn--small">Journal</a>
 
   _**•	Awarded for being the eighth most cited article in 2019 JOB impact factor**_
