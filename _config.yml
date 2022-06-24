@@ -115,7 +115,25 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  links:
+    - label: "ywrhee@uw.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ywrhee@uw.edu"
+    - label: "UW Webpage"
+      icon: "fas fa-fw fa-university"
+      url: "https://foster.uw.edu/academics/degree-programs/phd-program/directory/young-won-rhee/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.co.kr/citations?user=GFjrT_4AAAAJ&hl=en"
+    - label: "SSRN"
+      icon: "far fa-fw fa-list-alt"
+      #url: "https://ssrn.com/author=2205901"
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "https://hyokangs.github.io/assets/pdf/CV-Hyo-Kang.pdf"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Reading Files
 include:
