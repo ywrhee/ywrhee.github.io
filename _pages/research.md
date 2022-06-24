@@ -30,24 +30,13 @@ author_profile: true
 ## Works in Progress
 ---
 
-### Moral Feedback: A Theory of Its Mechanisms, Contingencies, and Implications (With Scott Reynolds and Carolyn Dang, Work in progress)
+### Moral Feedback: A Theory of Its Mechanisms, Contingencies, and Implications 
+*Working Paper*. With Scott J. Reynolds and Carolyn Dang
 
 <details>
-  
-<summary>
-  
-CLICK HERE TO VIEW THE ABSTRACT
-  
-</summary>
-
-<i>
-  
->_Moral self-regulation has attracted substantial research attention as a mechanism that explains employee moral behavior. However, an important piece of moral regulation has been largely overlooked in the literature, namely, supervisory moral feedback. To theoretically explain the behavioral corrective function of moral feedback, we define two different forms of supervisory moral feedback: criterion referenced and social comparison moral feedback. Drawing from the feedback intervention and moral decision-making literatures, we argue that criterion referenced moral feedback decreases subsequent employee immoral behavior through cognitive pathways, while social comparison moral feedback does so by distinct mechanisms involving social pathways. We also define three different dimensions of the behavioral correction, duration, breadth, and immediacy, and propose that the behavioral correction effect of moral feedback varies contingent upon factors at the individual, team, and organizational levels. The present conceptual analysis highlights supervisors’ role in guiding subordinates who are morally off track and offers practical guidance on how to administer moral feedback consistent with the moral goals of an organization._
-
-</i>
-  
-</details>
-
+<summary><font color="gray">Abstract +</font></summary>
+    <blockquote>Moral self-regulation has attracted substantial research attention as a mechanism that explains employee moral behavior. However, an important piece of moral regulation has been largely overlooked in the literature, namely, supervisory moral feedback. To theoretically explain the behavioral corrective function of moral feedback, we define two different forms of supervisory moral feedback: criterion referenced and social comparison moral feedback. Drawing from the feedback intervention and moral decision-making literatures, we argue that criterion referenced moral feedback decreases subsequent employee immoral behavior through cognitive pathways, while social comparison moral feedback does so by distinct mechanisms involving social pathways. We also define three different dimensions of the behavioral correction, duration, breadth, and immediacy, and propose that the behavioral correction effect of moral feedback varies contingent upon factors at the individual, team, and organizational levels. The present conceptual analysis highlights supervisors’ role in guiding subordinates who are morally off track and offers practical guidance on how to administer moral feedback consistent with the moral goals of an organization.</blockquote>
+  </details>
 
 ### How Does Coworker Social Status Drive Helping Behavior Among Members? Effect of Status-driven Helping on Team Performance (With Jin Nam Choi, Under review at OBHDP)
 
