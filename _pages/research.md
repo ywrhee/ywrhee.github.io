@@ -56,7 +56,12 @@ Creativity is an increasingly important domain of performance largely based on k
 _**•	Awarded for being the eighth most cited article in 2019 JOB impact factor**_
 
 
-
++ **How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases**.  
+2nd Revise and Resubmit. 2021. Kang, H.
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>This paper examines how price competition in the product market affects the intensity and breadth of innovation. I assemble a unique data set comprising all 461 prosecuted collusion cases in the United States from 1975 through 2016, where I match 1,818 collusive firms to firm-level data on innovation. Empirical results from a difference-in-differences methodology show a negative causal relationship between price competition and innovation. When collusion suppressed price competition, colluded firms increased patent filings by 20.5 percent and top-quality patents by 16 percent. A significant portion of these patents are attributable to fundamental innovation activities since innovation inputs—R&D investment and the number of unique patenting inventors—increased in tandem by 15.2 percent and 22.9 percent, respectively. Furthermore, firms broadened their scope of innovation by exploring new technological areas; the number of patented technology classes increased by 11.9 percent. When competition was restored by collusion breakup, the increased and broadened innovation activities reverted to their previous levels. The effects were greater for collusion that was stronger and in fast-growing industries. I shed light on market profitability and firm financial constraints as key economic mechanisms driving the trade-off between price competition and innovation growth.</blockquote>
+  </details>
 
 
 
