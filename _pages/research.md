@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 ### “We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team (Dissertation)
-*Dissertation Chapter I
+*Dissertation Chapter I*
 
 **_•	Academy of Management 2022 Best Paper Proceedings (SIM Division)_**
 
