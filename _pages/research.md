@@ -50,10 +50,6 @@ author_profile: true
 
 + ### Improv intervention and team processes
 *Working Paper*. With Elijah Wee, Bruce Avolio, and Kendall Yamamoto
-    <details>
-    <summary><font color="gray">Abstract +</font></summary>
-    <blockquote>The current study hypothesizes and tests how unethical pro-group behavior (UPB) of individual employees predict individual and team performance in a heterologous way. Drawing on the behavioral ethics literature and cognitive energetics theory, this study further identifies abusive supervision as a critical boundary condition that accentuates the heterogeneous relationship between UPB and performances at the individual- and team-levels. The current conceptual framework was empirically tested by 56 teams consisted of 186 Korean employees. Analytic results from multi-level and regression analysis reveal that UPB by individual employee is a significant and negative predictor of individual task performance, which tends to be strong in teams with a highly abusive leader. Collective UPB at teams shows a significantly positive effect on team performance, and this effect was driven primarily by teams with a highly abusive leader. The current theoretical and empirical analysis highlights the multi-level nature of UPB and its performance implications.</blockquote>
-  </details>
 
 + ### Varying Effects of Unethical Pro-group Behavior on Team and Individual Performances: Abusive Supervision as a Critical Contingency
 *Working Paper*. 
