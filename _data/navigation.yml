@@ -19,10 +19,10 @@ main:
 # Gallery Sidebar
 sidebar-gallery:
   - title: "University of Washington"
-    url: /gallery/#university-of-washington
+    url: /_pages/gallary1.md#university-of-washington
   - title: "Seattle"
-    url: /gallery/#seattle
+    url: /_pages/gallary1.md#seattle
   - title: "Mt. Rainier"
-    url: /gallery/#mt-rainier
+    url: /_pages/gallary1.md#mt-rainier
   - title: "Hawaii"
-    url: /gallery/#hawaii
+    url: /_pages/gallary1.md#hawaii
