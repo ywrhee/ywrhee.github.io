@@ -48,9 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-logo                     : "/assets/images/88x88.png"
-masthead_title           : "<p style="color:black">Young Won Rhee</p>"
-
 
 # SEO Related
 google_site_verification :
