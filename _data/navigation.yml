@@ -19,10 +19,10 @@ main:
 # Gallery Sidebar
 sidebar-gallery:
   - title: "University of Washington"
-    url: /gallery/#yellowstone-national-park
+    url: /gallery/#university-of-washington
   - title: "Seattle"
-    url: /gallery/#iceland
+    url: /gallery/#seattle
   - title: "Mt. Rainier"
-    url: /gallery/#north-california
+    url: /gallery/#mt-rainier
   - title: "Hawaii"
-    url: /gallery/#seoul
+    url: /gallery/#hawaii
