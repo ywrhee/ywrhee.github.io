@@ -31,6 +31,8 @@ When not focused on my research, I spend time in the outdoors with my wife - hik
   <a href="/files/a5.jpg">
   <img src="/files/b5.jpg"></a>
   
+  <a href="/files/s1.jpg">
+  <img src="/files/s1-1.jpg"></a> 
 </figure>
 
 ### Mt. Rainier
@@ -56,6 +58,10 @@ When not focused on my research, I spend time in the outdoors with my wife - hik
 
   <a href="/files/a6.jpg">
   <img src="/files/b6.jpg"></a>
+  <a href="/files/h1.jpg">
+  <img src="/files/h1-1.jpg"></a>
+  <a href="/files/h2.jpg">
+  <img src="/files/h2-1.jpg"></a>
   
 </figure>
   
