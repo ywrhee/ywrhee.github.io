@@ -17,12 +17,12 @@ main:
     target: "_blank"
 
 # Gallery Sidebar
-sidebar-gallery:
-  - title: "University of Washington"
-    url: /_pages/gallary1.md#university-of-washington
-  - title: "Seattle"
-    url: /_pages/gallary1.md#seattle
-  - title: "Mt. Rainier"
-    url: /_pages/gallary1.md#mt-rainier
-  - title: "Hawaii"
-    url: /_pages/gallary1.md#hawaii
+#sidebar-gallery:
+ # - title: "University of Washington"
+  #  url: /_pages/gallary1.md#university-of-washington
+  #- title: "Seattle"
+   # url: /_pages/gallary1.md#seattle
+  #- title: "Mt. Rainier"
+   # url: /_pages/gallary1.md#mt-rainier
+  #- title: "Hawaii"
+    #url: /_pages/gallary1.md#hawaii
