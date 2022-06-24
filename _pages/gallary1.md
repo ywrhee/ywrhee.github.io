@@ -1,6 +1,6 @@
 ---
 permalink: /gallary/
-title: "Gallary"
+#title: "Gallary"
 author_profile: true 
 ---
 
