@@ -177,3 +177,52 @@ textarea {
   overflow: auto; /* remove vertical scrollbar in IE6-9*/
   vertical-align: top; /* readability and alignment cross-browser*/
 }
+
+/* Font Size  Override (Added by HK) */
+
+html {
+  font-size: 17px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 15px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 17px; // change to whatever
+  }
+}
+
+/* Underline type (HK) */
+a:-webkit-any-link {
+  text-decoration-style: dotted;
+}
+
+/* "Details" customization // http://html5doctor.com/the-details-and-summary-elements/ */
+details > summary {
+  padding: 1px;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  width: 75px;  
+  border: solid; 
+  border-width: 0.1em;
+  border-radius: 5px;
+  border-color: lightgray;
+  text-align:center;
+  cursor: pointer;
+  list-style: none;
+  font-size: 9pt;
+  
+  :hover{
+    color: black;
+    border-color: black;
+    /* text-decoration: underline; */
+  }
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
