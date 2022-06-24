@@ -7,7 +7,7 @@ author_profile: true
 When not focused on my research, I spend time in the outdoors with my wife - hiking, taking photos, and exploring the city, local gardens and parks. 
 
 ### University of Washington
-
+---
 
 <figure class="third">
   <a href="/files/a1.jpg">
@@ -22,7 +22,7 @@ When not focused on my research, I spend time in the outdoors with my wife - hik
 </figure>
 
 ### Seattle
-
+---
 
 <figure class="third">
   <a href="/files/a4.jpg">
@@ -34,6 +34,7 @@ When not focused on my research, I spend time in the outdoors with my wife - hik
 </figure>
 
 ### Mt. Rainier
+---
 
 <figure class="third">
 
@@ -49,6 +50,7 @@ When not focused on my research, I spend time in the outdoors with my wife - hik
 </figure>
 
 ### Hawaii
+---
 
 <figure class="third">
 
