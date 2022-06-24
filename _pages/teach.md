@@ -60,6 +60,8 @@ _University of Washington TA Program: In this program, I have discussed what are
 
 ## Distinction
 
+_As a recognition of my efforts and performances in teaching, I received a Ph.D. program teaching award from the Foster School of Business in 2022, which has been awarded to three Ph.D. students who demonstrated outstanding performance in teaching._
+
 + **Dean's Teaching Award**
 
-As a recognition of my efforts and performances in teaching, I received a Ph.D. program teaching award from the Foster School of Business in 2022, which has been awarded to three Ph.D. students who demonstrated outstanding performance in teaching. 
+
