@@ -46,7 +46,7 @@ author_profile: true
 
 + ### Knowledge management behavior and individual creativity: Goal orientations as antecedents and in-group social status as moderating contingency
 *Journal of Organizational Behavior*, 38(6): 813-832. 2017. Rhee, Y. W. & Choi, J. N.
-<span style="float:right"><a target = "_blank" href="https://doi.org/10.1002/job.2168" class="btn btn--warning btn--small">Journal</a>
+<span style="float:right"><a target = "_blank" href="https://doi.org/10.1002/job.2168" class="btn btn--warning btn--small">Journal</a></br>
   _**•	Awarded for being the eighth most cited article in 2019 JOB impact factor**_
     <details>
     <summary><font color="gray">Abstract +</font></summary>
