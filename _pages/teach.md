@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /teach/
 author_profile: true
 ---
