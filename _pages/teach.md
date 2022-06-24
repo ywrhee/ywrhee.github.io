@@ -12,17 +12,15 @@ author_profile: true
 
 This is an undergraduate course in organizational behavior. I was responsible for developing course material, lecturing, supporting student consulting and research projects, and grading. 
 
-**•	Winter 2021 (4.3/5.0)**
++ **Winter 2021 (4.3/5.0)**
 
-**•	Spring 2020 (4.2/5.0)**
-
-Here are some notable evaluation excerpts from students:
-
-_“I appreciate the engagement activities that were present in nearly every class, it was interesting trying to understand how these seemingly random activities actually tie into the course material.”_
-
++ **Spring 2020 (4.2/5.0)**
+    <details>
+    <summary><font color="gray">Evaluation Excerpts+</font></summary>
+    <blockquote>_“I appreciate the engagement activities that were present in nearly every class, it was interesting trying to understand how these seemingly random activities actually tie into the course material.”_
 _“Young always gave quality feedback on assignments and also was accepting of every student and seemed to genuinely want us all to succeed. He was super accessible and always made it clear that he was willing to do whatever necessary to help us. He also always gave insightful responses to people's ideas in class showing he really cared and was listening. Young made this course so enjoyable and went above and beyond!”_ 
-
-_“Rhee did an excellent job in encouraging the educational advancement of students from all backgrounds and experiences by simply treating everyone in an upstanding manner. No preferences or handouts were given to any specialized individual. Additionally, he would try to ask for a wide range of perspectives on his questions.”_ 
+_“Rhee did an excellent job in encouraging the educational advancement of students from all backgrounds and experiences by simply treating everyone in an upstanding manner. No preferences or handouts were given to any specialized individual. Additionally, he would try to ask for a wide range of perspectives on his questions.”_</blockquote>
+  </details>
 
 ## FGBUS 250: Foundation of Global Business
 ---
