@@ -7,7 +7,6 @@ author_profile: true
 {% include base_path %}
 
 ## Dissertation
----
 
 + ### Team Moral Identity: A Theory of Its Antecedents, Contingencies, and Implications  
 *Dissertation Chapter I* <br>
@@ -25,7 +24,6 @@ author_profile: true
   </details>
 
 ## Works in Progress
----
 
 + ### Moral Feedback: A Theory of Its Mechanisms, Contingencies, and Implications 
 *Working Paper*. With Scott J. Reynolds and Carolyn Dang
@@ -59,7 +57,6 @@ author_profile: true
 *Working Paper*. With Elijah Wee, Bruce Avolio, and Kendall Yamamoto
 
 ## Publications
----
 
 + ### Knowledge management behavior and individual creativity: Goal orientations as antecedents and in-group social status as moderating contingency
 *Journal of Organizational Behavior*, 38(6): 813-832. 2017. Rhee, Y. W. & Choi, J. N.<br>
