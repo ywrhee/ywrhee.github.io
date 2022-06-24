@@ -67,11 +67,18 @@ author_profile: true
     <blockquote>Creativity is an increasingly important domain of performance largely based on knowledge held and exchanged among employees. Despite the necessity of knowledge exchange, individual employees tend to experience mixed motivation caused by the inherent social dilemma of knowledge sharing. To pragmatically explain how individuals deal with this motivational dilemma, we propose an expanded framework of knowledge management behavior (KMB) that includes knowledge sharing, hiding, and manipulation. Individual choices among these KMBs may be driven by dispositional goal orientations. We also propose that the effects of KMB on creativity of employees vary depending on their social status in a work group. Our analyses based on 214 employees from 37 teams reveal that (i) learning goal orientation increases knowledge sharing and decreases knowledge manipulation; (ii) avoiding goal orientation increases knowledge sharing and manipulation; and (iii) proving goal orientation increases knowledge hiding and manipulation. Knowledge hiding is negatively related to employee creativity, particularly for employees with high social status. Knowledge manipulation is positively related to creativity, particularly for those with high social status. This study develops and validates a theoretical framework explaining the formative process and distinct outcomes of the multifaceted and strategic approaches to KMB at the individual level.</blockquote>
   </details>
     
-
-
-
-
-
-
-
-
++ ### Dual pathways of emotional competence towards incremental and radical creativity: resource caravans through feedback-seeking frequency and breadth
+*European Journal of Work and Organizational Psychology*, 29(3): 421-433. 2020. Sung, S. Y., Rhee, Y. W., Lee, J. E., & Choi, J. N.
+<span style="float:right"><a target = "_blank" href="https://doi.org/10.1080/1359432X.2020.1718654" class="btn btn--warning btn--small">Journal</a>
+    <details>
+    <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>This study examined how employees’ emotional competence predicts feedback-seeking behaviour (FSB) and consequently incremental and radical creativity on the basis of conservation of resource (COR) theory. We posit that emotional competence enhances the two types of creativity by generating resource caravans through distinct patterns of FSB. Our analysis based on the data collected from 206 employees from 85 work teams revealed that emotional competence has a significant indirect effect on the incremental creativity of team members, as rated by leaders, through frequent feedback seeking. Emotional competence also exhibited a considerable direct effect on radical creativity. In addition, emotional competence predicted source variety, namely, feedback-seeking breadth, which in turn contributed to radical creativity. This study offers new and useful theoretical and practical insights regarding the different types of creativity in the workplace by employing COR theory and the resource caravan perspective.</blockquote>
+  </details>
+    
++ ### Knowledge management behavior and individual creativity: Goal orientations as antecedents and in-group social status as moderating contingency
+*Journal of Organizational Behavior*, 38(6): 813-832. 2017. Rhee, Y. W. & Choi, J. N.
+<span style="float:right"><a target = "_blank" href="https://doi.org/10.1002/job.2168" class="btn btn--warning btn--small">Journal</a>
+    <details>
+    <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>Creativity is an increasingly important domain of performance largely based on knowledge held and exchanged among employees. Despite the necessity of knowledge exchange, individual employees tend to experience mixed motivation caused by the inherent social dilemma of knowledge sharing. To pragmatically explain how individuals deal with this motivational dilemma, we propose an expanded framework of knowledge management behavior (KMB) that includes knowledge sharing, hiding, and manipulation. Individual choices among these KMBs may be driven by dispositional goal orientations. We also propose that the effects of KMB on creativity of employees vary depending on their social status in a work group. Our analyses based on 214 employees from 37 teams reveal that (i) learning goal orientation increases knowledge sharing and decreases knowledge manipulation; (ii) avoiding goal orientation increases knowledge sharing and manipulation; and (iii) proving goal orientation increases knowledge hiding and manipulation. Knowledge hiding is negatively related to employee creativity, particularly for employees with high social status. Knowledge manipulation is positively related to creativity, particularly for those with high social status. This study develops and validates a theoretical framework explaining the formative process and distinct outcomes of the multifaceted and strategic approaches to KMB at the individual level.</blockquote>
+  </details>
