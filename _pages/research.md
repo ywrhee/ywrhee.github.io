@@ -40,7 +40,14 @@ author_profile: true
     <summary><font color="gray">Abstract +</font></summary>
     <blockquote>This study theorizes and examines how employees’ helping behavior is predicted by coworkers’ social status, which reflects the operation of an impression management motive. Drawing on social exchange theory and resource allocation framework, we further identify intragroup task conflict as a critical boundary condition that accentuates the role of coworker social status and further politicizes the helping behavior of employees. In view of the literature on the dark side of citizenship behavior, members’ status-driven helping behavior is expected to compromise team performance by reducing trust and coordination among team members. The current conceptual framework was empirically tested by field survey and online experimental studies. This study highlights the importance of distinct motives (prosocial, task-related, and self-serving) underlying citizenship behavior, which may lead to disparate individual and organizational outcomes.</blockquote>
   </details>
-  
+
++ ### Intentions matter: Examining unethical acts intended to harm others, help the self, and help others
+*Working Paper*. With Elizabeth Umphress and Yu Tse Heng
+    <details>
+    <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>This study theorizes and examines how observing unethical behaviors with different underlying intents, namely, pro-group, self-serving, and harming, committed by a group member influences an observer’s group directed behaviors. Drawing on the social identity theory, we identify the motivations to leave a group and avoid group members as critical group-oriented behaviors after observing a member’s unethical behavior. Furthermore, we posit the trust and threat as critical mechanisms that explain the observer’s reactions to different types of unethical intentions demonstrated by the perpetrator. We hypothesize that the unethical behavior with the harming intent will have the strongest effect, followed by the unethical behaviors committed with the self-serving and prosocial intentions. These hypotheses were empirically tested by online experimental studies using the scenario and critical incident methods; . This paper highlights the importance of identifying distinct motives (i.e., pro-group, self-serving, or harming) of unethical behaviors that occur in a group setting, which can involve distinct social identity processes that possess unique group-directed implications.</blockquote>
+  </details>
+
 ## Publications
 ---
 
