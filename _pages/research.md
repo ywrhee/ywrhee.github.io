@@ -9,13 +9,7 @@ author_profile: true
 
 ### “We Are Moral": How a Team Moral Identity Influences the Functions and Outcomes of a Team (Dissertation)
 
-[Text](#link){: .btn .btn--primary}
-
-[Button name](#link){: .btn .btn--success}
-
-<a href="#link" class="btn btn--success">Button name</a>
-
-<details><summary>[Text](#link){: .btn .btn--primary}</summary>
+<details><summary>[Button name](#link){: .btn .btn--success}</summary>
 <p>
 
 > _This dissertation introduces the construct of team moral identity, which I define as a team’s shared sense of self that regards morality as a central, distinctive, and enduring characteristic of the team. In keeping with the literature on ethical theory, I delineate this construct as having two forms, conduct-oriented and outcome-oriented identity. Furthermore, I draw on the social identity and self-verification literatures to propose several critical antecedents and consequences of team moral identity. I validate a scale measuring team moral identity, examine the nomological network around the construct, and test several of the relationships proposed in the theoretical model using online, lab, and field data. The findings from this dissertation demonstrate that a) team moral identity dramatically impacts the functions and outcomes of a team, including those with moral and non-moral implications, and that b) conduct- and outcome-oriented team moral identity have distinct organizational implications._
@@ -24,13 +18,18 @@ author_profile: true
 </details>
 
 
-
-
 **_•	Academy of Management 2022 Best Paper Proceedings (SIM Division)_**
 
 ### Moral Feedback: A Theory of Its Mechanisms, Contingencies, and Implications (With Scott Reynolds and Carolyn Dang, Work in progress)
 
-Moral self-regulation has attracted substantial research attention as a mechanism that explains employee moral behavior. However, an important piece of moral regulation has been largely overlooked in the literature, namely, supervisory moral feedback. To theoretically explain the behavioral corrective function of moral feedback, we define two different forms of supervisory moral feedback: criterion referenced and social comparison moral feedback. Drawing from the feedback intervention and moral decision-making literatures, we argue that criterion referenced moral feedback decreases subsequent employee immoral behavior through cognitive pathways, while social comparison moral feedback does so by distinct mechanisms involving social pathways. We also define three different dimensions of the behavioral correction, duration, breadth, and immediacy, and propose that the behavioral correction effect of moral feedback varies contingent upon factors at the individual, team, and organizational levels. The present conceptual analysis highlights supervisors’ role in guiding subordinates who are morally off track and offers practical guidance on how to administer moral feedback consistent with the moral goals of an organization.  
+<details><summary>ABSTRACT</summary>
+<p>
+
+> _Moral self-regulation has attracted substantial research attention as a mechanism that explains employee moral behavior. However, an important piece of moral regulation has been largely overlooked in the literature, namely, supervisory moral feedback. To theoretically explain the behavioral corrective function of moral feedback, we define two different forms of supervisory moral feedback: criterion referenced and social comparison moral feedback. Drawing from the feedback intervention and moral decision-making literatures, we argue that criterion referenced moral feedback decreases subsequent employee immoral behavior through cognitive pathways, while social comparison moral feedback does so by distinct mechanisms involving social pathways. We also define three different dimensions of the behavioral correction, duration, breadth, and immediacy, and propose that the behavioral correction effect of moral feedback varies contingent upon factors at the individual, team, and organizational levels. The present conceptual analysis highlights supervisors’ role in guiding subordinates who are morally off track and offers practical guidance on how to administer moral feedback consistent with the moral goals of an organization._
+
+</p>
+</details>
+
 
 ### How Does Coworker Social Status Drive Helping Behavior Among Members? Effect of Status-driven Helping on Team Performance (With Jin Nam Choi, Under review at OBHDP)
 
