@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 + ### Team Moral Identity: A Theory of Its Antecedents, Contingencies, and Implications  
-*Dissertation Chapter I* </br>
+*Dissertation Chapter I* <br>
 **Academy of Management 2022 Best Paper Proceedings (SIM Division)**
     <details>
     <summary><font color="gray">Abstract +</font></summary>
