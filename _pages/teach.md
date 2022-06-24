@@ -23,7 +23,7 @@ This is an undergraduate course in organizational behavior. I was responsible fo
 
 This is a core class from UW’s Global Business Certificate program. I have worked with international professionals to help them understand better how to work effectively both in teams and individually in a global business context.
 
-+ **Autumn 2020 (4.5/5.0)**
++ **Autumn 2020 (4.5/5.0)**<br>
     <details>
     <summary><font color="gray">Excerpts+</font></summary>
     <blockquote><p>“Some in-class exercises were interesting and contributed our deep learning and understanding the contents that are covered during his lecture.”</p></blockquote>
