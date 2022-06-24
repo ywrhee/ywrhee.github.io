@@ -13,7 +13,9 @@ author_profile: true
 *Dissertation Chapter I* <br>
 **Academy of Management 2022 Best Paper Proceedings (SIM Division)**
     <details>
-    <summary><font color="gray"><button>Abstract</button></font></summary>
+    <summary>
+        
+        <button>Abstract</button></summary>
     <blockquote>In this paper, we introduce the concept of team moral identity, a team-level construct that represents the shared cognition that morality is a central, distinctive, and enduring attribute that defines the team. We draw from the theory of moral self, social identity theory, and self- verification literature to develop a model of the antecedents and outcomes of team moral identity. This model has theoretical implications for scholarship focusing on moral identity, collective identity, and behavioral ethics, and it holds numerous practical implications for those working in teams.</blockquote>
   </details>
 
