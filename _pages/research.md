@@ -57,7 +57,7 @@ This study theorizes and examines how employees’ helping behavior is predicted
 
 ### Knowledge management behavior and individual creativity: Goal orientations as antecedents and in-group social status as moderating contingency 
 *Journal of Organizational Behavior*, 29(3): 663-685. 2017. Rhee, Y. W. & Choi, J. N.
-<span style="float:right"><a href="https://doi.org/10.1002/job.2168" target=”_blank” class="btn btn--warning btn--small">Journal</a>
+<span style="float:right"><a target = "_blank" href="https://doi.org/10.1002/job.2168" class="btn btn--warning btn--small">Journal</a>
 
   _**•	Awarded for being the eighth most cited article in 2019 JOB impact factor**_
   <details>
