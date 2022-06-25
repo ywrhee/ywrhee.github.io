@@ -36,15 +36,15 @@ I have led review sessions and coaching sessions for business professionals enro
 + **MGMT 500: Management and Leadership**
 
 + **MGMT 501: Leading Teams and Organizations (4.1/5.0)**
-    <details>
-    <summary><font color="gray">Excerpts+</font></summary>
-    <blockquote><p>“Young was a very positive and encouraging TA, which I really appreciated. He made the TA review sessions fun and I liked the use of breakout rooms in the review sessions.”<br><br>“Young did a great job walking through the content and ensuring that we understood the leadership principles of the lessons.”</p></blockquote>
-  </details>
   
 + **MGMT 504: Ethical Leadership**
 
 + **MGMT 545: Leading & Managing High-Performance Organizations**
-
+<details>
+    <summary><font color="gray">Excerpts+</font></summary>
+    <blockquote><p>“Young was a very positive and encouraging TA, which I really appreciated. He made the TA review sessions fun and I liked the use of breakout rooms in the review sessions.”<br><br>“Young did a great job walking through the content and ensuring that we understood the leadership principles of the lessons.”</p></blockquote>
+  </details>
+  
 ## Service
 
 University of Washington TA Program: In this program, I have discussed what are some inclusive teaching strategies that we can implement in our classroom and what are some measures that we can take to address microaggressions in a classroom context with newly admitted TAs.
